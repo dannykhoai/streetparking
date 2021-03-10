@@ -1,10 +1,11 @@
 # streetparking
 Custom trained car recognition for street parking
 
-I live in a great city: perfect nature, good accessibilty, cool people, peaceful neighborhood. 
+I live in a great neighborhood: perfect nature, good accessibilty, cool peeps living around. <br>
 Except its parking access.
 
-In short, I need to know whether those street parking spaces are available in order to fit my car in. I could do it with manually by keep checking out from the window.<br>
+In short, I need to know whether those street parking spaces are available in order to fit my car in.
+I could do it with manually by keep looking out from the window.<br>
 Or I use Object detection - Machine learning?
 
 
@@ -23,5 +24,6 @@ Tensorflow comes to the rescue. And here is my plan:
 
  
 3b. Figuring out the zone for desired detection (Ongoing) <br>
-4. Send data to a frontend site / or Telegram Bot sending signal. (Pending)
+4. Converting to a TF Lite model and implement it on Raspberry Pi (Ongoing)
+5. Send data to a frontend site / or Telegram Bot sending signal. (Pending)
 
