@@ -24,6 +24,6 @@ Tensorflow comes to the rescue. And here is my plan:
 
  
 3b. Figuring out the zone for desired detection (Ongoing) <br>
-4. Converting to a TF Lite model and implement it on Raspberry Pi (Ongoing)
-5. Send data to a frontend site / or Telegram Bot sending signal. (Pending)
+4. Converting to a TF Lite model and implement it on Raspberry Pi (Ongoing) <br>
+5. Send data to a frontend site / or Telegram Bot sending signal. (Pending) <br>
 
